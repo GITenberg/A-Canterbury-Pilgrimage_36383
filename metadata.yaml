@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33068
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
 description: Illustrated by the authors.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36383#A-Canterbury-Pilgrimage
 gutenberg_issued: '2011-06-11'
 gutenberg_type: Text
 identifiers:
